@@ -1,0 +1,3759 @@
+{
+  "parent": "projects/ecom-exp-cfr-poc",
+  "model": {
+    "shipments": [
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1131346741,
+              "longitude": -118.2051555964
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9896525973,
+              "longitude": -118.355200535
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8024227241,
+              "longitude": -118.1835340295
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8573789253,
+              "longitude": -118.1830626964
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9212271964,
+              "longitude": -118.2380174326
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9194976884,
+              "longitude": -118.0424489407
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1049587648,
+              "longitude": -118.0406687044
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0590863846,
+              "longitude": -118.2017668128
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1300552116,
+              "longitude": -118.1011405335
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9481628285,
+              "longitude": -118.0284558404
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8235053264,
+              "longitude": -118.1497242114
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9586570034,
+              "longitude": -118.1925521814
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.861041305,
+              "longitude": -118.2915727774
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8290734028,
+              "longitude": -118.2159838638
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8596007508,
+              "longitude": -118.142258849
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8447595543,
+              "longitude": -118.1292871499
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0765931606,
+              "longitude": -118.3404590368
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.945063108,
+              "longitude": -118.2040115743
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0107929078,
+              "longitude": -118.0676148641
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0185773894,
+              "longitude": -118.1563420582
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1103408283,
+              "longitude": -118.0520279828
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8970423705,
+              "longitude": -118.0978917934
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9514347436,
+              "longitude": -118.3301153647
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1574732483,
+              "longitude": -118.2626692677
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8820113773,
+              "longitude": -118.3427962947
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8247373696,
+              "longitude": -118.305195276
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0077311189,
+              "longitude": -118.2449652814
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9304220504,
+              "longitude": -118.3956449372
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1127844064,
+              "longitude": -118.3262299244
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9605495818,
+              "longitude": -118.1772860801
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9042486153,
+              "longitude": -118.0099586634
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1318163439,
+              "longitude": -118.2952292482
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.081290107,
+              "longitude": -118.2725809485
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0368770389,
+              "longitude": -118.2013662154
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8560494625,
+              "longitude": -118.1661030462
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1163011331,
+              "longitude": -118.0727018173
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8835733184,
+              "longitude": -118.2158142286
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.97312627,
+              "longitude": -118.382703061
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1548694394,
+              "longitude": -118.182043838
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9582547246,
+              "longitude": -118.3591985124
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0022739967,
+              "longitude": -118.042783135
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1063463661,
+              "longitude": -118.2116787257
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9937530718,
+              "longitude": -118.1392408937
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8551662126,
+              "longitude": -118.2869931584
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8849488188,
+              "longitude": -118.0662796647
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9609760532,
+              "longitude": -118.0576106212
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8348865456,
+              "longitude": -118.2360603117
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9706419047,
+              "longitude": -118.3693869742
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0603513336,
+              "longitude": -117.9951838882
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8489633445,
+              "longitude": -118.116519806
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9803546419,
+              "longitude": -118.3628635115
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9471641446,
+              "longitude": -118.1704647872
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9291567669,
+              "longitude": -117.9706361018
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1503692831,
+              "longitude": -118.2880251757
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.874731956,
+              "longitude": -118.2156979994
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0275405792,
+              "longitude": -118.3671945037
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0497796592,
+              "longitude": -118.2862803283
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9847558825,
+              "longitude": -118.4170632413
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0885696038,
+              "longitude": -118.2852882261
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0703748449,
+              "longitude": -118.075204388
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.031165922,
+              "longitude": -118.1284775454
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0563521809,
+              "longitude": -118.1126325331
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8100070974,
+              "longitude": -118.138916154
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9439842768,
+              "longitude": -118.1067894845
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0075483268,
+              "longitude": -118.2063064693
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1058962912,
+              "longitude": -118.1429862846
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0020130879,
+              "longitude": -118.1702469994
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0151468372,
+              "longitude": -118.140087229
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8021017662,
+              "longitude": -118.301328344
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0505453061,
+              "longitude": -118.3617709426
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0088364767,
+              "longitude": -118.0236787168
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8563753242,
+              "longitude": -118.1633075456
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0120581325,
+              "longitude": -117.9981767509
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9658045235,
+              "longitude": -118.3415103151
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1300838726,
+              "longitude": -118.2871429572
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9021350501,
+              "longitude": -117.9750464172
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0799871208,
+              "longitude": -118.1266802457
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8179771966,
+              "longitude": -118.3184235404
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9228847376,
+              "longitude": -118.076943241
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9304095405,
+              "longitude": -118.205623605
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0268355268,
+              "longitude": -118.0938007468
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0140921353,
+              "longitude": -118.0833098586
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8834109433,
+              "longitude": -118.3002027188
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8636328511,
+              "longitude": -118.0249062988
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9824709934,
+              "longitude": -118.0500325777
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9509315923,
+              "longitude": -118.2900393116
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9196897833,
+              "longitude": -118.2560078096
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1255959621,
+              "longitude": -118.0382472392
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0004422236,
+              "longitude": -118.0457115759
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9297875271,
+              "longitude": -118.0644854438
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.085411852,
+              "longitude": -118.3375734863
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8800067431,
+              "longitude": -118.0268869328
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8675721111,
+              "longitude": -118.3434743751
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1494761902,
+              "longitude": -118.169092314
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9858599862,
+              "longitude": -117.9697797108
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0199988879,
+              "longitude": -118.0203755479
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8206697605,
+              "longitude": -118.3294306153
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8575921049,
+              "longitude": -118.334181333
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8757800081,
+              "longitude": -118.1305744961
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0658544352,
+              "longitude": -118.2644234358
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8196882523,
+              "longitude": -118.1200577069
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9030429976,
+              "longitude": -118.340413174
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0189847936,
+              "longitude": -118.2099957501
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9087873615,
+              "longitude": -118.0064657001
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9610431798,
+              "longitude": -118.0578135616
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8385520256,
+              "longitude": -118.0508288993
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9713849226,
+              "longitude": -118.1029188244
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9636203682,
+              "longitude": -118.0325915408
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9026249175,
+              "longitude": -118.1222616473
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1252782603,
+              "longitude": -118.221776595
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0518744809,
+              "longitude": -117.9643300305
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9524959967,
+              "longitude": -117.9871935286
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.7915870424,
+              "longitude": -118.2839411848
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9958669503,
+              "longitude": -118.0069930653
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8160598663,
+              "longitude": -118.0726991819
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9719296749,
+              "longitude": -118.2068130187
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8446810061,
+              "longitude": -118.3108066026
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.953611398,
+              "longitude": -118.1129116132
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8605459232,
+              "longitude": -118.3306254859
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9543189426,
+              "longitude": -117.9988329447
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9469810933,
+              "longitude": -118.3860191158
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0533479797,
+              "longitude": -118.2647531489
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8918137237,
+              "longitude": -118.0119375304
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.026224857,
+              "longitude": -118.2184261835
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8288971094,
+              "longitude": -118.2379384895
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9610546738,
+              "longitude": -118.0513224452
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0029074307,
+              "longitude": -118.1167873952
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8673957383,
+              "longitude": -118.1097623115
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0598867149,
+              "longitude": -118.1850336908
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9652178144,
+              "longitude": -118.3633775351
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8969305058,
+              "longitude": -118.2275615997
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8142577592,
+              "longitude": -118.0827663035
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.798103533,
+              "longitude": -118.2331445749
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1313833166,
+              "longitude": -118.0887733353
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0418337867,
+              "longitude": -118.0290119836
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9854101779,
+              "longitude": -118.3403153652
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "5"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8578433847,
+              "longitude": -118.2201498212
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0351527067,
+              "longitude": -118.1471089849
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "1"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9176648515,
+              "longitude": -118.0017559119
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0646716821,
+              "longitude": -118.0575930569
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0334275778,
+              "longitude": -118.2135048837
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9925977679,
+              "longitude": -118.1738753636
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0395007549,
+              "longitude": -118.3364681758
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1175608367,
+              "longitude": -118.3440418549
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.8099706009,
+              "longitude": -118.2120646516
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "2"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.1035029539,
+              "longitude": -118.2972917129
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0412512259,
+              "longitude": -118.1303032095
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.9005905822,
+              "longitude": -118.3769801587
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "4"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 33.7989879399,
+              "longitude": -118.2669980547
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      },
+      {
+        "deliveries": [
+          {
+            "arrivalLocation": {
+              "latitude": 34.0584076023,
+              "longitude": -118.2423563198
+            }
+          }
+        ],
+        "loadDemands": {
+          "weight": {
+            "amount": "3"
+          }
+        }
+      }
+    ],
+    "vehicles": [
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      },
+      {
+        "loadLimits": {
+          "weight": {
+            "maxLoad": 3
+          }
+        },
+        "endLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        },
+        "startLocation": {
+          "latitude": 34.01645908,
+          "longitude": -117.8443661
+        }
+      }
+    ]
+  }
+}

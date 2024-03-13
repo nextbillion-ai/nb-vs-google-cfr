@@ -1,0 +1,2659 @@
+{
+  "routes": [
+    {},
+    {
+      "vehicleIndex": 1
+    },
+    {
+      "vehicleIndex": 2
+    },
+    {
+      "vehicleIndex": 3
+    },
+    {
+      "vehicleIndex": 4,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T00:22:19Z",
+      "visits": [
+        {
+          "shipmentIndex": 2,
+          "startTime": "1970-01-01T00:11:04Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-41"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "41"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-41"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "664s",
+          "travelDistanceMeters": 3635,
+          "waitDuration": "0s",
+          "totalDuration": "664s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "41"
+            }
+          }
+        },
+        {
+          "travelDuration": "675s",
+          "travelDistanceMeters": 3628,
+          "waitDuration": "0s",
+          "totalDuration": "675s",
+          "startTime": "1970-01-01T00:11:04Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 1,
+        "travelDuration": "1339s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "1339s",
+        "travelDistanceMeters": 7263,
+        "maxLoads": {
+          "weight": {
+            "amount": "41"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "664s",
+          "distanceMeters": 3635
+        },
+        {
+          "duration": "675s",
+          "distanceMeters": 3628
+        }
+      ],
+      "vehicleDetour": "1339s"
+    },
+    {
+      "vehicleIndex": 5,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T00:29:13Z",
+      "visits": [
+        {
+          "shipmentIndex": 3,
+          "startTime": "1970-01-01T00:14:09Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-12"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "26"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-12"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 1,
+          "startTime": "1970-01-01T00:17:01Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-14"
+            }
+          ],
+          "detour": "306s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "14"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-14"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "849s",
+          "travelDistanceMeters": 4536,
+          "waitDuration": "0s",
+          "totalDuration": "849s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "26"
+            }
+          }
+        },
+        {
+          "travelDuration": "172s",
+          "travelDistanceMeters": 508,
+          "waitDuration": "0s",
+          "totalDuration": "172s",
+          "startTime": "1970-01-01T00:14:09Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "14"
+            }
+          }
+        },
+        {
+          "travelDuration": "732s",
+          "travelDistanceMeters": 3807,
+          "waitDuration": "0s",
+          "totalDuration": "732s",
+          "startTime": "1970-01-01T00:17:01Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 2,
+        "travelDuration": "1753s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "1753s",
+        "travelDistanceMeters": 8851,
+        "maxLoads": {
+          "weight": {
+            "amount": "26"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "897s",
+          "distanceMeters": 4536
+        },
+        {
+          "duration": "172s",
+          "distanceMeters": 508
+        },
+        {
+          "duration": "732s",
+          "distanceMeters": 3807
+        }
+      ],
+      "vehicleDetour": "1753s"
+    },
+    {
+      "vehicleIndex": 6,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T00:22:16Z",
+      "visits": [
+        {
+          "shipmentIndex": 5,
+          "startTime": "1970-01-01T00:08:09Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-18"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "48"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-18"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 4,
+          "startTime": "1970-01-01T00:14:27Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-30"
+            }
+          ],
+          "detour": "354s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "30"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-30"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "489s",
+          "travelDistanceMeters": 2382,
+          "waitDuration": "0s",
+          "totalDuration": "489s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "48"
+            }
+          }
+        },
+        {
+          "travelDuration": "378s",
+          "travelDistanceMeters": 1693,
+          "waitDuration": "0s",
+          "totalDuration": "378s",
+          "startTime": "1970-01-01T00:08:09Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "30"
+            }
+          }
+        },
+        {
+          "travelDuration": "469s",
+          "travelDistanceMeters": 2541,
+          "waitDuration": "0s",
+          "totalDuration": "469s",
+          "startTime": "1970-01-01T00:14:27Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 2,
+        "travelDuration": "1336s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "1336s",
+        "travelDistanceMeters": 6616,
+        "maxLoads": {
+          "weight": {
+            "amount": "48"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "489s",
+          "distanceMeters": 2382
+        },
+        {
+          "duration": "378s",
+          "distanceMeters": 1693
+        },
+        {
+          "duration": "469s",
+          "distanceMeters": 2541
+        }
+      ],
+      "vehicleDetour": "1336s"
+    },
+    {
+      "vehicleIndex": 7,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T01:02:55Z",
+      "visits": [
+        {
+          "shipmentIndex": 9,
+          "startTime": "1970-01-01T00:08:30Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-21"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "41"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-21"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 8,
+          "startTime": "1970-01-01T00:29:49Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-5"
+            }
+          ],
+          "detour": "429s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "20"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-5"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 7,
+          "startTime": "1970-01-01T00:47:03Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-7"
+            }
+          ],
+          "detour": "1894s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "15"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-7"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 6,
+          "startTime": "1970-01-01T00:54:36Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-8"
+            }
+          ],
+          "detour": "2796s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "8"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-8"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "510s",
+          "travelDistanceMeters": 2392,
+          "waitDuration": "0s",
+          "totalDuration": "510s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "41"
+            }
+          }
+        },
+        {
+          "travelDuration": "1279s",
+          "travelDistanceMeters": 9490,
+          "waitDuration": "0s",
+          "totalDuration": "1279s",
+          "startTime": "1970-01-01T00:08:30Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "20"
+            }
+          }
+        },
+        {
+          "travelDuration": "1034s",
+          "travelDistanceMeters": 6495,
+          "waitDuration": "0s",
+          "totalDuration": "1034s",
+          "startTime": "1970-01-01T00:29:49Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "15"
+            }
+          }
+        },
+        {
+          "travelDuration": "453s",
+          "travelDistanceMeters": 2385,
+          "waitDuration": "0s",
+          "totalDuration": "453s",
+          "startTime": "1970-01-01T00:47:03Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "8"
+            }
+          }
+        },
+        {
+          "travelDuration": "499s",
+          "travelDistanceMeters": 2653,
+          "waitDuration": "0s",
+          "totalDuration": "499s",
+          "startTime": "1970-01-01T00:54:36Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 4,
+        "travelDuration": "3775s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "3775s",
+        "travelDistanceMeters": 23415,
+        "maxLoads": {
+          "weight": {
+            "amount": "41"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "510s",
+          "distanceMeters": 2392
+        },
+        {
+          "duration": "1266s",
+          "distanceMeters": 9490
+        },
+        {
+          "duration": "1034s",
+          "distanceMeters": 6495
+        },
+        {
+          "duration": "453s",
+          "distanceMeters": 2385
+        },
+        {
+          "duration": "499s",
+          "distanceMeters": 2653
+        }
+      ],
+      "vehicleDetour": "3775s"
+    },
+    {
+      "vehicleIndex": 8,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T00:32:29Z",
+      "visits": [
+        {
+          "shipmentIndex": 14,
+          "startTime": "1970-01-01T00:03:38Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-12"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "47"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-12"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 11,
+          "startTime": "1970-01-01T00:09:53Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-27"
+            }
+          ],
+          "detour": "140s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "35"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-27"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 10,
+          "startTime": "1970-01-01T00:21:18Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-8"
+            }
+          ],
+          "detour": "582s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "8"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-8"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "218s",
+          "travelDistanceMeters": 991,
+          "waitDuration": "0s",
+          "totalDuration": "218s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "47"
+            }
+          }
+        },
+        {
+          "travelDuration": "375s",
+          "travelDistanceMeters": 2198,
+          "waitDuration": "0s",
+          "totalDuration": "375s",
+          "startTime": "1970-01-01T00:03:38Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "35"
+            }
+          }
+        },
+        {
+          "travelDuration": "685s",
+          "travelDistanceMeters": 4067,
+          "waitDuration": "0s",
+          "totalDuration": "685s",
+          "startTime": "1970-01-01T00:09:53Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "8"
+            }
+          }
+        },
+        {
+          "travelDuration": "671s",
+          "travelDistanceMeters": 3087,
+          "waitDuration": "0s",
+          "totalDuration": "671s",
+          "startTime": "1970-01-01T00:21:18Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 3,
+        "travelDuration": "1949s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "1949s",
+        "travelDistanceMeters": 10343,
+        "maxLoads": {
+          "weight": {
+            "amount": "47"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "218s",
+          "distanceMeters": 991
+        },
+        {
+          "duration": "374s",
+          "distanceMeters": 2198
+        },
+        {
+          "duration": "685s",
+          "distanceMeters": 4067
+        },
+        {
+          "duration": "671s",
+          "distanceMeters": 3087
+        }
+      ],
+      "vehicleDetour": "1949s"
+    },
+    {
+      "vehicleIndex": 9,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T01:36:00Z",
+      "visits": [
+        {
+          "shipmentIndex": 17,
+          "startTime": "1970-01-01T00:07:48Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-24"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "48"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-24"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 16,
+          "startTime": "1970-01-01T00:23:05Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-19"
+            }
+          ],
+          "detour": "616s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "24"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-19"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 13,
+          "startTime": "1970-01-01T00:35:28Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-4"
+            }
+          ],
+          "detour": "1335s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "5"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-4"
+            }
+          }
+        },
+        {
+          "startTime": "1970-01-01T01:02:28Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "1787s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "1"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "468s",
+          "travelDistanceMeters": 2238,
+          "waitDuration": "0s",
+          "totalDuration": "468s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "48"
+            }
+          }
+        },
+        {
+          "travelDuration": "917s",
+          "travelDistanceMeters": 4887,
+          "waitDuration": "0s",
+          "totalDuration": "917s",
+          "startTime": "1970-01-01T00:07:48Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "24"
+            }
+          }
+        },
+        {
+          "travelDuration": "743s",
+          "travelDistanceMeters": 3301,
+          "waitDuration": "0s",
+          "totalDuration": "743s",
+          "startTime": "1970-01-01T00:23:05Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "5"
+            }
+          }
+        },
+        {
+          "travelDuration": "1620s",
+          "travelDistanceMeters": 14946,
+          "waitDuration": "0s",
+          "totalDuration": "1620s",
+          "startTime": "1970-01-01T00:35:28Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "1"
+            }
+          }
+        },
+        {
+          "travelDuration": "2012s",
+          "travelDistanceMeters": 16603,
+          "waitDuration": "0s",
+          "totalDuration": "2012s",
+          "startTime": "1970-01-01T01:02:28Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 4,
+        "travelDuration": "5760s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "5760s",
+        "travelDistanceMeters": 41975,
+        "maxLoads": {
+          "weight": {
+            "amount": "48"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "468s",
+          "distanceMeters": 2238
+        },
+        {
+          "duration": "916s",
+          "distanceMeters": 4887
+        },
+        {
+          "duration": "743s",
+          "distanceMeters": 3301
+        },
+        {
+          "duration": "1620s",
+          "distanceMeters": 14946
+        },
+        {
+          "duration": "2012s",
+          "distanceMeters": 16603
+        }
+      ],
+      "vehicleDetour": "5760s"
+    },
+    {
+      "vehicleIndex": 10,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T01:16:40Z",
+      "visits": [
+        {
+          "shipmentIndex": 22,
+          "startTime": "1970-01-01T00:15:41Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-8"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "50"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-8"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 21,
+          "startTime": "1970-01-01T00:31:06Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-14"
+            }
+          ],
+          "detour": "1641s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "42"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-14"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 20,
+          "startTime": "1970-01-01T00:43:17Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-7"
+            }
+          ],
+          "detour": "1845s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "28"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-7"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 19,
+          "startTime": "1970-01-01T00:58:51Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-18"
+            }
+          ],
+          "detour": "2459s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "21"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-18"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 15,
+          "startTime": "1970-01-01T01:13:19Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-3"
+            }
+          ],
+          "detour": "4150s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "3"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-3"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "941s",
+          "travelDistanceMeters": 4245,
+          "waitDuration": "0s",
+          "totalDuration": "941s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "50"
+            }
+          }
+        },
+        {
+          "travelDuration": "925s",
+          "travelDistanceMeters": 3694,
+          "waitDuration": "0s",
+          "totalDuration": "925s",
+          "startTime": "1970-01-01T00:15:41Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "42"
+            }
+          }
+        },
+        {
+          "travelDuration": "731s",
+          "travelDistanceMeters": 2627,
+          "waitDuration": "0s",
+          "totalDuration": "731s",
+          "startTime": "1970-01-01T00:31:06Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "28"
+            }
+          }
+        },
+        {
+          "travelDuration": "934s",
+          "travelDistanceMeters": 3128,
+          "waitDuration": "0s",
+          "totalDuration": "934s",
+          "startTime": "1970-01-01T00:43:17Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "21"
+            }
+          }
+        },
+        {
+          "travelDuration": "868s",
+          "travelDistanceMeters": 4163,
+          "waitDuration": "0s",
+          "totalDuration": "868s",
+          "startTime": "1970-01-01T00:58:51Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "3"
+            }
+          }
+        },
+        {
+          "travelDuration": "201s",
+          "travelDistanceMeters": 962,
+          "waitDuration": "0s",
+          "totalDuration": "201s",
+          "startTime": "1970-01-01T01:13:19Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 5,
+        "travelDuration": "4600s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "4600s",
+        "travelDistanceMeters": 18819,
+        "maxLoads": {
+          "weight": {
+            "amount": "50"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "941s",
+          "distanceMeters": 4245
+        },
+        {
+          "duration": "925s",
+          "distanceMeters": 3694
+        },
+        {
+          "duration": "731s",
+          "distanceMeters": 2627
+        },
+        {
+          "duration": "934s",
+          "distanceMeters": 3128
+        },
+        {
+          "duration": "868s",
+          "distanceMeters": 4163
+        },
+        {
+          "duration": "201s",
+          "distanceMeters": 962
+        }
+      ],
+      "vehicleDetour": "4600s"
+    },
+    {
+      "vehicleIndex": 11,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T01:11:16Z",
+      "visits": [
+        {
+          "shipmentIndex": 28,
+          "startTime": "1970-01-01T00:05:41Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-4"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "50"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-4"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 27,
+          "startTime": "1970-01-01T00:20:52Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-8"
+            }
+          ],
+          "detour": "271s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "46"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-8"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 26,
+          "startTime": "1970-01-01T00:25:00Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-10"
+            }
+          ],
+          "detour": "610s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "38"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-10"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 25,
+          "startTime": "1970-01-01T00:28:29Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-12"
+            }
+          ],
+          "detour": "848s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "28"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-12"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 23,
+          "startTime": "1970-01-01T00:33:48Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-13"
+            }
+          ],
+          "detour": "963s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "16"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-13"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 18,
+          "startTime": "1970-01-01T00:38:56Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "1445s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "3"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 12,
+          "startTime": "1970-01-01T00:53:16Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "1984s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "1"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "341s",
+          "travelDistanceMeters": 1436,
+          "waitDuration": "0s",
+          "totalDuration": "341s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "50"
+            }
+          }
+        },
+        {
+          "travelDuration": "911s",
+          "travelDistanceMeters": 4035,
+          "waitDuration": "0s",
+          "totalDuration": "911s",
+          "startTime": "1970-01-01T00:05:41Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "46"
+            }
+          }
+        },
+        {
+          "travelDuration": "248s",
+          "travelDistanceMeters": 545,
+          "waitDuration": "0s",
+          "totalDuration": "248s",
+          "startTime": "1970-01-01T00:20:52Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "38"
+            }
+          }
+        },
+        {
+          "travelDuration": "209s",
+          "travelDistanceMeters": 574,
+          "waitDuration": "0s",
+          "totalDuration": "209s",
+          "startTime": "1970-01-01T00:25:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "28"
+            }
+          }
+        },
+        {
+          "travelDuration": "319s",
+          "travelDistanceMeters": 1066,
+          "waitDuration": "0s",
+          "totalDuration": "319s",
+          "startTime": "1970-01-01T00:28:29Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "16"
+            }
+          }
+        },
+        {
+          "travelDuration": "308s",
+          "travelDistanceMeters": 905,
+          "waitDuration": "0s",
+          "totalDuration": "308s",
+          "startTime": "1970-01-01T00:33:48Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "3"
+            }
+          }
+        },
+        {
+          "travelDuration": "860s",
+          "travelDistanceMeters": 4804,
+          "waitDuration": "0s",
+          "totalDuration": "860s",
+          "startTime": "1970-01-01T00:38:56Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "1"
+            }
+          }
+        },
+        {
+          "travelDuration": "1080s",
+          "travelDistanceMeters": 7123,
+          "waitDuration": "0s",
+          "totalDuration": "1080s",
+          "startTime": "1970-01-01T00:53:16Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 7,
+        "travelDuration": "4276s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "4276s",
+        "travelDistanceMeters": 20488,
+        "maxLoads": {
+          "weight": {
+            "amount": "50"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "341s",
+          "distanceMeters": 1436
+        },
+        {
+          "duration": "911s",
+          "distanceMeters": 4035
+        },
+        {
+          "duration": "248s",
+          "distanceMeters": 545
+        },
+        {
+          "duration": "209s",
+          "distanceMeters": 574
+        },
+        {
+          "duration": "319s",
+          "distanceMeters": 1066
+        },
+        {
+          "duration": "308s",
+          "distanceMeters": 905
+        },
+        {
+          "duration": "860s",
+          "distanceMeters": 4804
+        },
+        {
+          "duration": "1080s",
+          "distanceMeters": 7123
+        }
+      ],
+      "vehicleDetour": "4276s"
+    },
+    {
+      "vehicleIndex": 12,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T01:39:04Z",
+      "visits": [
+        {
+          "shipmentIndex": 39,
+          "startTime": "1970-01-01T00:08:47Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-8"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "50"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-8"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 37,
+          "startTime": "1970-01-01T00:23:48Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-5"
+            }
+          ],
+          "detour": "678s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "42"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-5"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 36,
+          "startTime": "1970-01-01T00:41:40Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-7"
+            }
+          ],
+          "detour": "1716s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "37"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-7"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 35,
+          "startTime": "1970-01-01T00:50:37Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-7"
+            }
+          ],
+          "detour": "1940s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "30"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-7"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 33,
+          "startTime": "1970-01-01T01:00:26Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-9"
+            }
+          ],
+          "detour": "3062s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "23"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-9"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 31,
+          "startTime": "1970-01-01T01:09:25Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-11"
+            }
+          ],
+          "detour": "3222s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "14"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-11"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 29,
+          "startTime": "1970-01-01T01:21:05Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "4321s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "3"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 24,
+          "startTime": "1970-01-01T01:30:51Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "4954s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "1"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "527s",
+          "travelDistanceMeters": 2486,
+          "waitDuration": "0s",
+          "totalDuration": "527s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "50"
+            }
+          }
+        },
+        {
+          "travelDuration": "901s",
+          "travelDistanceMeters": 3885,
+          "waitDuration": "0s",
+          "totalDuration": "901s",
+          "startTime": "1970-01-01T00:08:47Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "42"
+            }
+          }
+        },
+        {
+          "travelDuration": "1072s",
+          "travelDistanceMeters": 5389,
+          "waitDuration": "0s",
+          "totalDuration": "1072s",
+          "startTime": "1970-01-01T00:23:48Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "37"
+            }
+          }
+        },
+        {
+          "travelDuration": "537s",
+          "travelDistanceMeters": 2094,
+          "waitDuration": "0s",
+          "totalDuration": "537s",
+          "startTime": "1970-01-01T00:41:40Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "30"
+            }
+          }
+        },
+        {
+          "travelDuration": "589s",
+          "travelDistanceMeters": 2866,
+          "waitDuration": "0s",
+          "totalDuration": "589s",
+          "startTime": "1970-01-01T00:50:37Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "23"
+            }
+          }
+        },
+        {
+          "travelDuration": "539s",
+          "travelDistanceMeters": 2004,
+          "waitDuration": "0s",
+          "totalDuration": "539s",
+          "startTime": "1970-01-01T01:00:26Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "14"
+            }
+          }
+        },
+        {
+          "travelDuration": "700s",
+          "travelDistanceMeters": 2583,
+          "waitDuration": "0s",
+          "totalDuration": "700s",
+          "startTime": "1970-01-01T01:09:25Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "3"
+            }
+          }
+        },
+        {
+          "travelDuration": "586s",
+          "travelDistanceMeters": 3870,
+          "waitDuration": "0s",
+          "totalDuration": "586s",
+          "startTime": "1970-01-01T01:21:05Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "1"
+            }
+          }
+        },
+        {
+          "travelDuration": "493s",
+          "travelDistanceMeters": 3045,
+          "waitDuration": "0s",
+          "totalDuration": "493s",
+          "startTime": "1970-01-01T01:30:51Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 8,
+        "travelDuration": "5944s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "5944s",
+        "travelDistanceMeters": 28222,
+        "maxLoads": {
+          "weight": {
+            "amount": "50"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "526s",
+          "distanceMeters": 2486
+        },
+        {
+          "duration": "901s",
+          "distanceMeters": 3885
+        },
+        {
+          "duration": "1071s",
+          "distanceMeters": 5389
+        },
+        {
+          "duration": "537s",
+          "distanceMeters": 2094
+        },
+        {
+          "duration": "589s",
+          "distanceMeters": 2866
+        },
+        {
+          "duration": "539s",
+          "distanceMeters": 2004
+        },
+        {
+          "duration": "700s",
+          "distanceMeters": 2583
+        },
+        {
+          "duration": "585s",
+          "distanceMeters": 3870
+        },
+        {
+          "duration": "493s",
+          "distanceMeters": 3045
+        }
+      ],
+      "vehicleDetour": "5944s"
+    },
+    {
+      "vehicleIndex": 13,
+      "vehicleStartTime": "1970-01-01T00:00:00Z",
+      "vehicleEndTime": "1970-01-01T04:50:35Z",
+      "visits": [
+        {
+          "shipmentIndex": 56,
+          "startTime": "1970-01-01T00:08:45Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-3"
+            }
+          ],
+          "detour": "0s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "50"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-3"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 55,
+          "startTime": "1970-01-01T00:16:11Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-5"
+            }
+          ],
+          "detour": "524s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "47"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-5"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 54,
+          "startTime": "1970-01-01T00:27:24Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-3"
+            }
+          ],
+          "detour": "905s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "42"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-3"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 53,
+          "startTime": "1970-01-01T00:50:51Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "1952s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "39"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 52,
+          "startTime": "1970-01-01T01:00:58Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "2837s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "38"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 51,
+          "startTime": "1970-01-01T01:04:59Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "3023s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "37"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 50,
+          "startTime": "1970-01-01T01:22:33Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "3513s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "36"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 49,
+          "startTime": "1970-01-01T01:48:40Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-4"
+            }
+          ],
+          "detour": "5834s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "35"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-4"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 48,
+          "startTime": "1970-01-01T01:59:22Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-3"
+            }
+          ],
+          "detour": "6482s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "31"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-3"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 47,
+          "startTime": "1970-01-01T02:09:52Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "7242s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "28"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 46,
+          "startTime": "1970-01-01T02:20:13Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "7914s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "27"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 45,
+          "startTime": "1970-01-01T02:41:19Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "8433s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "25"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 44,
+          "startTime": "1970-01-01T02:58:09Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "9769s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "23"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 43,
+          "startTime": "1970-01-01T03:05:33Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-4"
+            }
+          ],
+          "detour": "10168s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "21"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-4"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 42,
+          "startTime": "1970-01-01T03:13:56Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "11259s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "17"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 41,
+          "startTime": "1970-01-01T03:22:40Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-6"
+            }
+          ],
+          "detour": "11512s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "15"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-6"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 40,
+          "startTime": "1970-01-01T03:36:59Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-4"
+            }
+          ],
+          "detour": "11902s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "9"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-4"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 38,
+          "startTime": "1970-01-01T03:49:29Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "13212s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "5"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 34,
+          "startTime": "1970-01-01T04:07:42Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "13603s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "4"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 32,
+          "startTime": "1970-01-01T04:29:18Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-1"
+            }
+          ],
+          "detour": "15188s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "3"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-1"
+            }
+          }
+        },
+        {
+          "shipmentIndex": 30,
+          "startTime": "1970-01-01T04:41:39Z",
+          "demands": [
+            {
+              "type": "weight",
+              "value": "-2"
+            }
+          ],
+          "detour": "16348s",
+          "arrivalLoads": [
+            {
+              "type": "weight",
+              "value": "2"
+            }
+          ],
+          "loadDemands": {
+            "weight": {
+              "amount": "-2"
+            }
+          }
+        }
+      ],
+      "transitions": [
+        {
+          "travelDuration": "525s",
+          "travelDistanceMeters": 2816,
+          "waitDuration": "0s",
+          "totalDuration": "525s",
+          "startTime": "1970-01-01T00:00:00Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "50"
+            }
+          }
+        },
+        {
+          "travelDuration": "446s",
+          "travelDistanceMeters": 1978,
+          "waitDuration": "0s",
+          "totalDuration": "446s",
+          "startTime": "1970-01-01T00:08:45Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "47"
+            }
+          }
+        },
+        {
+          "travelDuration": "673s",
+          "travelDistanceMeters": 2893,
+          "waitDuration": "0s",
+          "totalDuration": "673s",
+          "startTime": "1970-01-01T00:16:11Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "42"
+            }
+          }
+        },
+        {
+          "travelDuration": "1407s",
+          "travelDistanceMeters": 7203,
+          "waitDuration": "0s",
+          "totalDuration": "1407s",
+          "startTime": "1970-01-01T00:27:24Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "39"
+            }
+          }
+        },
+        {
+          "travelDuration": "607s",
+          "travelDistanceMeters": 2238,
+          "waitDuration": "0s",
+          "totalDuration": "607s",
+          "startTime": "1970-01-01T00:50:51Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "38"
+            }
+          }
+        },
+        {
+          "travelDuration": "241s",
+          "travelDistanceMeters": 681,
+          "waitDuration": "0s",
+          "totalDuration": "241s",
+          "startTime": "1970-01-01T01:00:58Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "37"
+            }
+          }
+        },
+        {
+          "travelDuration": "1054s",
+          "travelDistanceMeters": 6609,
+          "waitDuration": "0s",
+          "totalDuration": "1054s",
+          "startTime": "1970-01-01T01:04:59Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "36"
+            }
+          }
+        },
+        {
+          "travelDuration": "1567s",
+          "travelDistanceMeters": 7594,
+          "waitDuration": "0s",
+          "totalDuration": "1567s",
+          "startTime": "1970-01-01T01:22:33Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "35"
+            }
+          }
+        },
+        {
+          "travelDuration": "642s",
+          "travelDistanceMeters": 2463,
+          "waitDuration": "0s",
+          "totalDuration": "642s",
+          "startTime": "1970-01-01T01:48:40Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "31"
+            }
+          }
+        },
+        {
+          "travelDuration": "630s",
+          "travelDistanceMeters": 2736,
+          "waitDuration": "0s",
+          "totalDuration": "630s",
+          "startTime": "1970-01-01T01:59:22Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "28"
+            }
+          }
+        },
+        {
+          "travelDuration": "621s",
+          "travelDistanceMeters": 2186,
+          "waitDuration": "0s",
+          "totalDuration": "621s",
+          "startTime": "1970-01-01T02:09:52Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "27"
+            }
+          }
+        },
+        {
+          "travelDuration": "1266s",
+          "travelDistanceMeters": 8531,
+          "waitDuration": "0s",
+          "totalDuration": "1266s",
+          "startTime": "1970-01-01T02:20:13Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "25"
+            }
+          }
+        },
+        {
+          "travelDuration": "1010s",
+          "travelDistanceMeters": 7883,
+          "waitDuration": "0s",
+          "totalDuration": "1010s",
+          "startTime": "1970-01-01T02:41:19Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "23"
+            }
+          }
+        },
+        {
+          "travelDuration": "444s",
+          "travelDistanceMeters": 1284,
+          "waitDuration": "0s",
+          "totalDuration": "444s",
+          "startTime": "1970-01-01T02:58:09Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "21"
+            }
+          }
+        },
+        {
+          "travelDuration": "503s",
+          "travelDistanceMeters": 2156,
+          "waitDuration": "0s",
+          "totalDuration": "503s",
+          "startTime": "1970-01-01T03:05:33Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "17"
+            }
+          }
+        },
+        {
+          "travelDuration": "524s",
+          "travelDistanceMeters": 2097,
+          "waitDuration": "0s",
+          "totalDuration": "524s",
+          "startTime": "1970-01-01T03:13:56Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "15"
+            }
+          }
+        },
+        {
+          "travelDuration": "859s",
+          "travelDistanceMeters": 4167,
+          "waitDuration": "0s",
+          "totalDuration": "859s",
+          "startTime": "1970-01-01T03:22:40Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "9"
+            }
+          }
+        },
+        {
+          "travelDuration": "750s",
+          "travelDistanceMeters": 3039,
+          "waitDuration": "0s",
+          "totalDuration": "750s",
+          "startTime": "1970-01-01T03:36:59Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "5"
+            }
+          }
+        },
+        {
+          "travelDuration": "1093s",
+          "travelDistanceMeters": 4381,
+          "waitDuration": "0s",
+          "totalDuration": "1093s",
+          "startTime": "1970-01-01T03:49:29Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "4"
+            }
+          }
+        },
+        {
+          "travelDuration": "1296s",
+          "travelDistanceMeters": 7381,
+          "waitDuration": "0s",
+          "totalDuration": "1296s",
+          "startTime": "1970-01-01T04:07:42Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "3"
+            }
+          }
+        },
+        {
+          "travelDuration": "741s",
+          "travelDistanceMeters": 3551,
+          "waitDuration": "0s",
+          "totalDuration": "741s",
+          "startTime": "1970-01-01T04:29:18Z",
+          "vehicleLoads": {
+            "weight": {
+              "amount": "2"
+            }
+          }
+        },
+        {
+          "travelDuration": "536s",
+          "travelDistanceMeters": 2795,
+          "waitDuration": "0s",
+          "totalDuration": "536s",
+          "startTime": "1970-01-01T04:41:39Z",
+          "vehicleLoads": {
+            "weight": {}
+          }
+        }
+      ],
+      "metrics": {
+        "performedShipmentCount": 21,
+        "travelDuration": "17435s",
+        "waitDuration": "0s",
+        "delayDuration": "0s",
+        "breakDuration": "0s",
+        "visitDuration": "0s",
+        "totalDuration": "17435s",
+        "travelDistanceMeters": 86662,
+        "maxLoads": {
+          "weight": {
+            "amount": "50"
+          }
+        }
+      },
+      "endLoads": [
+        {
+          "type": "weight"
+        }
+      ],
+      "travelSteps": [
+        {
+          "duration": "525s",
+          "distanceMeters": 2816
+        },
+        {
+          "duration": "446s",
+          "distanceMeters": 1978
+        },
+        {
+          "duration": "673s",
+          "distanceMeters": 2893
+        },
+        {
+          "duration": "1406s",
+          "distanceMeters": 7203
+        },
+        {
+          "duration": "606s",
+          "distanceMeters": 2238
+        },
+        {
+          "duration": "241s",
+          "distanceMeters": 681
+        },
+        {
+          "duration": "1054s",
+          "distanceMeters": 6609
+        },
+        {
+          "duration": "1567s",
+          "distanceMeters": 7594
+        },
+        {
+          "duration": "642s",
+          "distanceMeters": 2463
+        },
+        {
+          "duration": "630s",
+          "distanceMeters": 2736
+        },
+        {
+          "duration": "621s",
+          "distanceMeters": 2186
+        },
+        {
+          "duration": "1257s",
+          "distanceMeters": 8531
+        },
+        {
+          "duration": "1008s",
+          "distanceMeters": 7883
+        },
+        {
+          "duration": "444s",
+          "distanceMeters": 1284
+        },
+        {
+          "duration": "503s",
+          "distanceMeters": 2156
+        },
+        {
+          "duration": "524s",
+          "distanceMeters": 2097
+        },
+        {
+          "duration": "859s",
+          "distanceMeters": 4167
+        },
+        {
+          "duration": "750s",
+          "distanceMeters": 3039
+        },
+        {
+          "duration": "1093s",
+          "distanceMeters": 4381
+        },
+        {
+          "duration": "1296s",
+          "distanceMeters": 7381
+        },
+        {
+          "duration": "741s",
+          "distanceMeters": 3551
+        },
+        {
+          "duration": "536s",
+          "distanceMeters": 2795
+        }
+      ],
+      "vehicleDetour": "17435s"
+    }
+  ],
+  "metrics": {
+    "aggregatedRouteMetrics": {
+      "performedShipmentCount": 57,
+      "travelDuration": "48167s",
+      "waitDuration": "0s",
+      "delayDuration": "0s",
+      "breakDuration": "0s",
+      "visitDuration": "0s",
+      "totalDuration": "48167s",
+      "travelDistanceMeters": 252654,
+      "maxLoads": {
+        "weight": {
+          "amount": "50"
+        }
+      }
+    },
+    "usedVehicleCount": 10,
+    "earliestVehicleStartTime": "1970-01-01T00:00:00Z",
+    "latestVehicleEndTime": "1970-01-01T04:50:35Z"
+  }
+}
